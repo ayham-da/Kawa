@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c869790dedfe452963a23635179d2414",
+    "revision": "2b8636d538b9e7c85429ff62b5a44d0f",
     "url": "/Kawa/index.html"
   },
   {
-    "revision": "d524fbe69c3d2dd6bed8",
+    "revision": "4751a327c804d94bfb8c",
     "url": "/Kawa/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "cb412ef37a1b3cf4fcc3",
+    "revision": "d01a48417b811d8371a9",
     "url": "/Kawa/static/css/main.8faecc3d.chunk.css"
   },
   {
-    "revision": "d524fbe69c3d2dd6bed8",
-    "url": "/Kawa/static/js/2.0add7c1b.chunk.js"
+    "revision": "4751a327c804d94bfb8c",
+    "url": "/Kawa/static/js/2.7764ebc0.chunk.js"
   },
   {
     "revision": "5f20d62de7dbb7d49f55e8e804fa6018",
-    "url": "/Kawa/static/js/2.0add7c1b.chunk.js.LICENSE.txt"
+    "url": "/Kawa/static/js/2.7764ebc0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb412ef37a1b3cf4fcc3",
-    "url": "/Kawa/static/js/main.de8eebc1.chunk.js"
+    "revision": "d01a48417b811d8371a9",
+    "url": "/Kawa/static/js/main.47b732de.chunk.js"
   },
   {
     "revision": "65d6266474d97a06f5f4",
