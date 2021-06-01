@@ -20,7 +20,7 @@ function Home() {
                   <meta charSet="utf-8" />
                   <title>Home | Kawa Tatar</title>
                   <link rel="canonical" href="#" />
-                  <meta name="description" content="Kawa Tatar| Home - Künstler" />
+                  <meta name="description" content="Kawa Tatar| Künstler" />
          </Helmet>
           <Animate to="1" from="0" attributeName="opacity">
             <Particles

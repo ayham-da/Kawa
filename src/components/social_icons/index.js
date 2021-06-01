@@ -4,23 +4,20 @@ import {
  Col,
 } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFacebook, faTwitter, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { faFacebook, faTwitter, faInstagram } from '@fortawesome/free-brands-svg-icons';
 
 function SocialIcons() {
   return (
          <Col xl={12} className="social-icons">
           &nbsp; &nbsp; &nbsp; &nbsp;
-          <a href="https://www.facebook.com/samer.alnajjar.90" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon className="fb" icon={faFacebook} />
           </a>
-          <a href="https://twitter.com/samer1694" target="_blank" rel="noopener noreferrer">
+          <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon className="twitter" icon={faTwitter} />
           </a>
-          <a href="https://www.instagram.com/samer_najjar16/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/k19_awa/" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon className="insta" icon={faInstagram} />
-          </a>
-          <a href="https://www.linkedin.com/in/samer-al-najjar" target="_blank" rel="noopener noreferrer">
-          <FontAwesomeIcon className="linkedin" icon={faLinkedin} />
           </a>
          </Col>
   );
