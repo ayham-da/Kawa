@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Kawa/static/css/main.8faecc3d.chunk.css",
+    "main.js": "/Kawa/static/js/main.de8eebc1.chunk.js",
+    "main.js.map": "/Kawa/static/js/main.de8eebc1.chunk.js.map",
+    "runtime-main.js": "/Kawa/static/js/runtime-main.6c64ca44.js",
+    "runtime-main.js.map": "/Kawa/static/js/runtime-main.6c64ca44.js.map",
+    "static/css/2.2a86faee.chunk.css": "/Kawa/static/css/2.2a86faee.chunk.css",
+    "static/js/2.0add7c1b.chunk.js": "/Kawa/static/js/2.0add7c1b.chunk.js",
+    "static/js/2.0add7c1b.chunk.js.map": "/Kawa/static/js/2.0add7c1b.chunk.js.map",
+    "index.html": "/Kawa/index.html",
+    "precache-manifest.8d468f5db84341965f24b0aeb1912273.js": "/Kawa/precache-manifest.8d468f5db84341965f24b0aeb1912273.js",
+    "service-worker.js": "/Kawa/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/Kawa/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.8faecc3d.chunk.css.map": "/Kawa/static/css/main.8faecc3d.chunk.css.map",
+    "static/js/2.0add7c1b.chunk.js.LICENSE.txt": "/Kawa/static/js/2.0add7c1b.chunk.js.LICENSE.txt",
+    "static/media/kawa-1.png": "/Kawa/static/media/kawa-1.1d5c9a30.png",
+    "static/media/kawa-2.png": "/Kawa/static/media/kawa-2.c673ad86.png",
+    "static/media/kawa-home.png": "/Kawa/static/media/kawa-home.451d11d9.png",
+    "static/media/Loading.css": "/Kawa/static/media/test2.5e63e1dc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c64ca44.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.0add7c1b.chunk.js",
+    "static/css/main.8faecc3d.chunk.css",
+    "static/js/main.de8eebc1.chunk.js"
+  ]
+}
