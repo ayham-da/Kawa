@@ -1,0 +1,26 @@
+.navbar-toggler-icon{
+    color: white !important;
+}
+.navbar1{
+    background-color: #000000;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.navbar-brand1{
+    margin-right: 1rem !important;
+    margin-left: .1rem !important;
+    font-size: 30px !important;
+    color: rgb(207, 183, 45);
+    font-weight: 500px !important;
+    font-family: 'Julius Sans One', sans-serif;
+}
+.nav-link{
+    font-size: 20px !important;
+}
+
+a.nav-link.active {
+    color:white !important;
+}
+a.nav-link:hover {
+    color: rgb(207, 183, 45) !important;
+}
