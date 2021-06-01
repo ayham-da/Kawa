@@ -24,9 +24,9 @@ class Loading extends Component {
       : <div>
          <Helmet>
                 <meta charSet="utf-8" />
-                <title>Samer Alnajjar</title>
-                <link rel="canonical" href="#Samer Alnajjar" />
-                <meta name="description" content="Samer Alnajjar| Author " />
+                <title>Kawa Tatar</title>
+                <link rel="canonical" href="#Kawa Tatar" />
+                <meta name="description" content="Kawa Tatar| Künstler " />
          </Helmet>
         <div className="Loading-header">
           <PuffLoader

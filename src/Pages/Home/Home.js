@@ -18,9 +18,9 @@ function Home() {
       <div>
          <Helmet>
                   <meta charSet="utf-8" />
-                  <title>Home | Samer Alnajjar</title>
+                  <title>Home | Kawa Tatar</title>
                   <link rel="canonical" href="#" />
-                  <meta name="description" content="Samer Alnajjar| Home - Author" />
+                  <meta name="description" content="Kawa Tatar| Home - Künstler" />
          </Helmet>
           <Animate to="1" from="0" attributeName="opacity">
             <Particles

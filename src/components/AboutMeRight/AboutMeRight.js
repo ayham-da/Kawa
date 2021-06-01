@@ -1,7 +1,7 @@
 import React from 'react';
 import '../AboutMeRight/AboutMeRight.css';
-import Samer from '../../assets/img/AboutMe.jpg';
-import Samer2 from '../../assets/img/AboutMe2.jpg';
+import kawa from '../../assets/img/kawa-1.png';
+import kawa2 from '../../assets/img/kawa-2.png';
 
 import {
   Container,
@@ -17,11 +17,11 @@ function AboutMeRight() {
       <Row className="AboutMeRight-main">
         <Col xl={12}>
           <br />
-          <Image src={Samer} className="AboutMeRight-main-img" alt="Image of samer Alnajar"/>
+          <Image src={kawa} className="AboutMeRight-main-img" alt="Image of Kawa Tatar"/>
         </Col>
         <Col xl={12}>
           <br />
-          <Image src={Samer2} className="AboutMeRight-main-img" alt="Image of samer Alnajar"/>
+          <Image src={kawa2} className="AboutMeRight-main-img" alt="Image of Kawa Tatar"/>
         </Col>
       </Row>
     </Container>

@@ -24,7 +24,7 @@ const MainHeader = props => {
         <Navbar.Brand exact href="/" eventKey="/" >
           <img alt="logo" src={logo} width="30" height="30" className="d-inline-block align-top"/>
         {' '}
-          <span className="navbar-brand1">Samer Alnajjar</span>
+          <span className="navbar-brand1">Kawa Tatar</span>
         </Navbar.Brand>
         <Navbar.Toggle
           onClick={() => setExpanded(expanded ? false : "expanded")}
@@ -36,7 +36,7 @@ const MainHeader = props => {
         </Navbar.Toggle>
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav activeKey={location} className="nav-link">
-            <Nav.Link style={{ display: "flex", justifyContent: "center" }} onClick={closeNav} className="text-white " activeClassName="active" as={NavLink} to="/MyBooks">Books</Nav.Link>
+            <Nav.Link style={{ display: "flex", justifyContent: "center" }} onClick={closeNav} className="text-white " activeClassName="active" as={NavLink} to="/MyProjekt">My Projekts</Nav.Link>
             <Nav.Link style={{ display: "flex", justifyContent: "center",}} onClick={closeNav} className="text-white " activeClassName="active" as={NavLink} to="/AboutMe">About Me</Nav.Link>
             <Nav.Link style={{ display: "flex", justifyContent: "center" }} onClick={closeNav} className="text-white " activeClassName="active" as={NavLink} to="/Contact">Contact Me</Nav.Link>
 

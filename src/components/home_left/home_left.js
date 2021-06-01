@@ -16,15 +16,12 @@ import {
    <Container className="home-left" >
     <Row className="home-left-main">
        <Col xl={12} className="home-left-main-col">
-         {/* <h1 className="first-line">
-           Hello! 
-         </h1> */}
          <h2 className="first-line">
-          <strong>سـامـر الـنـجّـار</strong>
+          <strong>Kawa Tatar</strong>
          </h2>
          <h3>
          <ReactTypingEffect
-           text="أعيشُ على هامشِ الحياة ، أقتاتُ الكلمات ، وكلُّ ما لدي قلمٌ وبضعةُ أوراقٍ وعشرون عاماً على هذا الكوكب" //text=["Hello.", "World!"]
+           text="أعيشُ على هامشِ الحياة ، أقتاتُ الكلمات ، وكلُّ ما لدي قلمٌ وبضعةُ أوراقٍ وعشرون عاماً على هذا الكوكب"
            className="typical"
            speed="100"
            eraseDelay="500000"

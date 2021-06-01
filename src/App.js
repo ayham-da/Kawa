@@ -11,7 +11,7 @@ import MainHeader from './components/Nav/MainHeader1'
 
 import AboutMe from "./Pages/AboutMe/AboutMe";
 // import Contact from "./Pages/Contact";
-// import MyBooks from "./Pages/Books/Books";
+// import MyBooks from "./Pages/MyProjekt/MyProjekt";
 
 function App() {
   
@@ -23,7 +23,7 @@ function App() {
        <Route exact path="/" component={Loading} />
        <Route path="/home" component={Home} />
        <Route path="/AboutMe" component={AboutMe} />
-       <Route path="/MyBooks" component={Home} />
+       <Route path="/MyProjekt" component={Home} />
        {/* <Route path="/contact" component={Contact} />
        <Route path="/project" component={Project} /> */}
        <Route path="*" component={Home} />

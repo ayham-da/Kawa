@@ -18,9 +18,9 @@ function AboutMe() {
       <div>
          <Helmet>
                   <meta charSet="utf-8" />
-                  <title>Samer Alnajjar</title>
+                  <title>Kawa Tatar</title>
                   <link rel="canonical" href="#" />
-                  <meta name="description" content="Samer Alnajjar| Author" />
+                  <meta name="description" content="Kawa Tatar| Künstler" />
          </Helmet>
           <Animate to="1" from="0" attributeName="opacity">
             <Particles

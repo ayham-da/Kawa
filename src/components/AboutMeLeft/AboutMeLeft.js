@@ -16,15 +16,12 @@ import {
    <Container className="AboutMeLeft" >
     <Row className="AboutMeLeft-main">
        <Col xl={12} className="AboutMeLeft-main-col">
-         {/* <h1 className="first-line">
-           Hello! 
-         </h1> */}
          <h2 className="first-line">
-          <strong>سـامـر الـنـجّـار</strong>
+          <strong>Kawa Tatar</strong>
          </h2>
          <h3>
          <ReactTypingEffect
-           text="Writer | humanist | social democrat | anti-facist | free syria"
+           text="Künstler | humanist "
            className="typical"
            speed="100"
            eraseDelay="500000"
@@ -32,7 +29,7 @@ import {
          </h3>
          <h3>
          <ReactTypingEffect
-           text="2011 لا زلت عالقاً في"
+           text="اعشق الجمال"
            
            className="typical"
            speed="100"
@@ -41,7 +38,7 @@ import {
          </h3>
           
            <br />
-           <Button variant="outline-dark" size="lg" className="AboutMeLeft-aboutmme-btn"><Link to="/MyBooks"   style={{ textDecoration: 'none', color: 'black'}} className="AboutMe_left-aboutme">Books</Link></Button> &nbsp;
+           <Button variant="outline-dark" size="lg" className="AboutMeLeft-aboutmme-btn"><Link to="/MyProjekt"   style={{ textDecoration: 'none', color: 'black'}} className="AboutMe_left-aboutme">Books</Link></Button> &nbsp;
            <Button variant="outline-dark" size="lg" className="AboutMeLeft-aboutmme-btn"><Link to="/Contact" style={{ textDecoration: 'none', color: 'black'}} className="AboutMe_left-aboutme">Contact Me</Link></Button>
          </Col>
      </Row>
