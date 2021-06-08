@@ -1,14 +1,14 @@
-.Books-header {
+.projekts-header {
     background-color:#090909;
     font-size: calc(10px + 2vmin);
     color: white;
   }
   
-.Books-main {
+.projekts-main {
     min-height: 95vh; 
   }
 
-.Books-footer {
+.projekts-footer {
     min-height: 5vh; 
   }  
 
@@ -18,4 +18,9 @@
     top:0;
     width:100%;
     height:100%;
+}
+
+projekts-main-List {
+    max-width: 100%;
+    margin: auto;
 }

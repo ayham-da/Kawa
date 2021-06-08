@@ -10,20 +10,20 @@ import Loading from "./Pages/Loading/Loading";
 import MainHeader from './components/Nav/MainHeader1'
 
 import AboutMe from "./Pages/AboutMe/AboutMe";
-// import Contact from "./Pages/Contact";
-// import MyBooks from "./Pages/MyProjekt/MyProjekt";
+//import Contact from "./Pages/Contact";
+import MyProjekt from "./Pages/MyProjekt/MyProjekt";
 
 function App() {
-  
+
   return (
     
     <Router>
     <MainHeader/>
     <Switch>
        <Route exact path="/" component={Loading} />
-       <Route path="/home" component={Home} />
+       <Route path="/Kawa" component={Home} />
        <Route path="/AboutMe" component={AboutMe} />
-       <Route path="/MyProjekt" component={Home} />
+       <Route path="/MyProjekt" component={MyProjekt} />
        {/* <Route path="/contact" component={Contact} />
        <Route path="/project" component={Project} /> */}
        <Route path="*" component={Home} />

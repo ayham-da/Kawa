@@ -1,11 +1,11 @@
 import React           from 'react';
-import PlaceItem       from './BookItem'
+import ProjektItem       from './ProjektItem'
 import {Card}          from 'react-bootstrap'
 import                      'bootstrap/dist/css/bootstrap.min.css';
-import                      './UserBooksList.css'
+import                      './ProjektItemList.css'
 
 
-const UserbooksList = props => {
+const ProjektItemList = props => {
     if (props.items.length === 0){
         return ( 
         <>
@@ -13,7 +13,7 @@ const UserbooksList = props => {
         <Card text="light">
         <Card.Body>
            <Card.Text >
-               {<h2>No Books found!!</h2>}
+               {<h2>No Projekt found!!</h2>}
            </Card.Text>
            
            </Card.Body>    
@@ -24,10 +24,10 @@ const UserbooksList = props => {
     }else{
         return(
             <>
-            <ul className="books-list">
+            <ul className="projekts-list">
                 {props.items.map(book =>{
                     return(<>
-                    <PlaceItem 
+                    <ProjektItem
                         key={book.id} 
                         id={book.id} 
                         image={book.imageUrl} 
@@ -45,4 +45,4 @@ const UserbooksList = props => {
         )
        }
 };
-export default UserbooksList;
+export default ProjektItemList;

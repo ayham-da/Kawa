@@ -38,7 +38,7 @@ import {
          </h3>
           
            <br />
-           <Button variant="outline-dark" size="lg" className="AboutMeLeft-aboutmme-btn"><Link to="/MyProjekt"   style={{ textDecoration: 'none', color: 'black'}} className="AboutMe_left-aboutme">Books</Link></Button> &nbsp;
+           <Button variant="outline-dark" size="lg" className="AboutMeLeft-aboutmme-btn"><Link to="/MyProjekt"   style={{ textDecoration: 'none', color: 'black'}} className="AboutMe_left-aboutme">My Projekt</Link></Button> &nbsp;
            <Button variant="outline-dark" size="lg" className="AboutMeLeft-aboutmme-btn"><Link to="/Contact" style={{ textDecoration: 'none', color: 'black'}} className="AboutMe_left-aboutme">Contact Me</Link></Button>
          </Col>
      </Row>

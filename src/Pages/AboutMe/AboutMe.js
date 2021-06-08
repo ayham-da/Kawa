@@ -29,11 +29,11 @@ function AboutMe() {
             />
           <Container className="AboutMe-header" fluid={true}>
             <Row className="AboutMe-main">
-              <Col  xl={5}  className="AboutMe-left">
-                <AboutMeRight />
-              </Col>
-              <Col  xl={7} className="AboutMeRight">
+              <Col  xl={7}  className="AboutMe-left">
                 <AboutMeLeft />
+              </Col>
+              <Col  xl={5} className="AboutMeRight">
+                  <AboutMeRight />
               </Col>
             </Row>
             <Row className="AboutMe-footer">
