@@ -1,29 +1,39 @@
 {
   "files": {
-    "main.css": "/Kawa/static/css/main.8faecc3d.chunk.css",
-    "main.js": "/Kawa/static/js/main.47b732de.chunk.js",
-    "main.js.map": "/Kawa/static/js/main.47b732de.chunk.js.map",
+    "main.css": "/Kawa/static/css/main.0ef3243e.chunk.css",
+    "main.js": "/Kawa/static/js/main.8d5b2ea8.chunk.js",
+    "main.js.map": "/Kawa/static/js/main.8d5b2ea8.chunk.js.map",
     "runtime-main.js": "/Kawa/static/js/runtime-main.6c64ca44.js",
     "runtime-main.js.map": "/Kawa/static/js/runtime-main.6c64ca44.js.map",
     "static/css/2.2a86faee.chunk.css": "/Kawa/static/css/2.2a86faee.chunk.css",
-    "static/js/2.7764ebc0.chunk.js": "/Kawa/static/js/2.7764ebc0.chunk.js",
-    "static/js/2.7764ebc0.chunk.js.map": "/Kawa/static/js/2.7764ebc0.chunk.js.map",
+    "static/js/2.52927c80.chunk.js": "/Kawa/static/js/2.52927c80.chunk.js",
+    "static/js/2.52927c80.chunk.js.map": "/Kawa/static/js/2.52927c80.chunk.js.map",
     "index.html": "/Kawa/index.html",
-    "precache-manifest.851992dfd23ce0bdb5f1d2a359843f0b.js": "/Kawa/precache-manifest.851992dfd23ce0bdb5f1d2a359843f0b.js",
+    "precache-manifest.07c399e9416e4068137a257fd6f7aad8.js": "/Kawa/precache-manifest.07c399e9416e4068137a257fd6f7aad8.js",
     "service-worker.js": "/Kawa/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/Kawa/static/css/2.2a86faee.chunk.css.map",
-    "static/css/main.8faecc3d.chunk.css.map": "/Kawa/static/css/main.8faecc3d.chunk.css.map",
-    "static/js/2.7764ebc0.chunk.js.LICENSE.txt": "/Kawa/static/js/2.7764ebc0.chunk.js.LICENSE.txt",
+    "static/css/main.0ef3243e.chunk.css.map": "/Kawa/static/css/main.0ef3243e.chunk.css.map",
+    "static/js/2.52927c80.chunk.js.LICENSE.txt": "/Kawa/static/js/2.52927c80.chunk.js.LICENSE.txt",
+    "static/media/Buddha.jpeg": "/Kawa/static/media/Buddha.91520232.jpeg",
+    "static/media/Cover me.jpeg": "/Kawa/static/media/Cover me.1ea6758a.jpeg",
+    "static/media/Kalam.jpeg": "/Kawa/static/media/Kalam.1ea9ced1.jpeg",
+    "static/media/Once.jpeg": "/Kawa/static/media/Once.274ca990.jpeg",
+    "static/media/Roja Nû.jpeg": "/Kawa/static/media/Roja Nû.11c53b8a.jpeg",
+    "static/media/Take me.jpeg": "/Kawa/static/media/Take me.a8b41a54.jpeg",
+    "static/media/Two souls from the sky.jpeg": "/Kawa/static/media/Two souls from the sky.1c8c7530.jpeg",
+    "static/media/beauty in the desert.jpeg": "/Kawa/static/media/beauty in the desert.5c4c5bbc.jpeg",
+    "static/media/free thoughts.jpeg": "/Kawa/static/media/free thoughts.2bd2a462.jpeg",
     "static/media/kawa-1.png": "/Kawa/static/media/kawa-1.1d5c9a30.png",
     "static/media/kawa-2.png": "/Kawa/static/media/kawa-2.c673ad86.png",
     "static/media/kawa-home.png": "/Kawa/static/media/kawa-home.451d11d9.png",
-    "static/media/Loading.css": "/Kawa/static/media/test2.5e63e1dc.png"
+    "static/media/Loading.css": "/Kawa/static/media/test2.5e63e1dc.png",
+    "static/media/wosnek.jpeg": "/Kawa/static/media/wosnek.55c39c3a.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.6c64ca44.js",
     "static/css/2.2a86faee.chunk.css",
-    "static/js/2.7764ebc0.chunk.js",
-    "static/css/main.8faecc3d.chunk.css",
-    "static/js/main.47b732de.chunk.js"
+    "static/js/2.52927c80.chunk.js",
+    "static/css/main.0ef3243e.chunk.css",
+    "static/js/main.8d5b2ea8.chunk.js"
   ]
 }
